@@ -28,7 +28,7 @@ This assignment involves building a basic ray tracer from scratch using C/C++. T
 
 Below is a sample render output showing multiple shaded spheres with light reflection:
 
-![Raytracer Output – Marbles](./marbles.png)
+![Raytracer Output – Marbles](./raytracer/marbles.png)
 
 ### Implementation Notes
 - Executable name: `raytracer`
@@ -66,7 +66,7 @@ In this task, we implemented a full forward rendering pipeline including transfo
 
 Below is a rasterized scene including a horse, a mug, and a shaded cube:
 
-![Rasterizer Output – Horse and Mug](./input_outputs/culling_enabled_outputs/horse_and_mug/horse_and_mug_2_ce.ppm.png)
+![Rasterizer Output – Horse and Mug](./rasterizer/input_outputs/culling_enabled_outputs/horse_and_mug/horse_and_mug_2_ce.ppm.png)
 
 ### ⚙️ Technical Details
 - Executable name: `rasterizer`
@@ -120,11 +120,11 @@ This project was a full implementation of a 3D interactive game built using Open
 
 Initial state of the game with a cube block:
 
-![Tetris Start – Cube Block](./oyun1.png)
+![Tetris Start – Cube Block](./tetrisGL/oyun1.png)
 
 Mid-game screenshot with various stacked blocks and score display:
 
-![Tetris Progress](./oyun2.png)
+![Tetris Progress](./tetrisGL/oyun2.png)
 
 ---
 
